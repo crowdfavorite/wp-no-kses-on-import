@@ -1,5 +1,9 @@
 # CF No KSES on Import Plugin Changelog
 
+## 1.1
+
+- Restrict it to only run for logged in admin.
+
 ## 1.0.1
 
 - Tested Successfully on WordPress 3.0.

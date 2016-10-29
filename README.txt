@@ -10,4 +10,3 @@ Removes all KSES filtering (the stuff that removes dangerous tags) on import of 
 
 - Activate plugin
 - Perform import as normal
-- **IMPORTANT** Deactivate plugin (very important for security)
